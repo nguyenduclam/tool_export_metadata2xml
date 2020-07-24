@@ -7,6 +7,7 @@ http://localhost:999/tool_export_metadata2xml/auto_export.php
 
 * Edit info in `auto_export.php`
 * Browse `auto_export.php` in a `webserver` (localhost is ok)
+* Your results in `xml_out` folder
 
 ```php
 // Trồng trọt
