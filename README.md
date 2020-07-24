@@ -3,6 +3,11 @@ Export Metadat to XML
 
 http://localhost:999/tool_export_metadata2xml/auto_export.php
 
+> How to run
+
+* Edit info in `auto_export.php`
+* Browse `auto_export.php` in a `webserver` (localhost is ok)
+
 ```php
 // Trồng trọt
 $nhomdulieu='Nhóm ngành trồng trọt';
