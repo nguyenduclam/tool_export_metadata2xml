@@ -8,7 +8,7 @@
                     xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
     <gmd:fileIdentifier xmlns:gmx="http://www.isotc211.org/2005/gmx"
                         xmlns:srv="http://www.isotc211.org/2005/srv">
-        <gco:CharacterString>a8c3b7dc5eb87b4a859c342625c04cff</gco:CharacterString>
+        <gco:CharacterString>5acb4e218612ebb79ce040a7bfcc8519</gco:CharacterString>
     </gmd:fileIdentifier>
     <gmd:language>
         <gco:CharacterString>English</gco:CharacterString>
@@ -17,7 +17,7 @@
         <gmd:MD_CharacterSetCode codeListValue="UTF8" codeList="./resources/codeList.xml#MD_CharacterSetCode"/>
     </gmd:characterSet>
     <gmd:parentIdentifier>
-        <gco:CharacterString>Cơ sở dữ liệu của lớp "Danh mục các nhóm cây trồng" - nhóm lớp "Nhóm ngành trồng trọt" thuộc tỉnh Phú Yên</gco:CharacterString>
+        <gco:CharacterString>Cơ sở dữ liệu của lớp "Diện tích rừng chia theo mục đích sử dụng" - nhóm lớp "Nhóm ngành kiểm lâm" thuộc tỉnh Phú Yên</gco:CharacterString>
     </gmd:parentIdentifier>
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
@@ -98,7 +98,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                 <gmd:title>
-                    <gco:CharacterString>Danh mục các nhóm cây trồng</gco:CharacterString>
+                    <gco:CharacterString>Diện tích rừng chia theo mục đích sử dụng</gco:CharacterString>
                 </gmd:title>
                 <gmd:date>
                     <gmd:CI_Date>
@@ -121,7 +121,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Siêu dữ liệu (Metadata) của lớp "Danh mục các nhóm cây trồng" - nhóm lớp "Nhóm ngành trồng trọt" thuộc tỉnh Phú Yên</gco:CharacterString>
+                <gco:CharacterString>Siêu dữ liệu (Metadata) của lớp "Diện tích rừng chia theo mục đích sử dụng" - nhóm lớp "Nhóm ngành kiểm lâm" thuộc tỉnh Phú Yên</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose>
                 <gco:CharacterString>Cập nhật cơ sở dữ liệu cho hệ thống thông tin Nông nghiệp tỉnh Phú Yên</gco:CharacterString>
@@ -133,30 +133,30 @@
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                 <gmd:individualName>
-                    <gco:CharacterString>Nguyễn Lê Lanh Đa</gco:CharacterString>
+                    <gco:CharacterString>Lê Văn Bé</gco:CharacterString>
                 </gmd:individualName>
                 <gmd:organisationName>
-                    <gco:CharacterString>Chi cục Trồng trọt và Bảo vệ thực vật</gco:CharacterString>
+                    <gco:CharacterString>Chi cục Kiểm lâm</gco:CharacterString>
                 </gmd:organisationName>
                 <gmd:positionName>
-                    <gco:CharacterString>Chi cục trưởng</gco:CharacterString>
+                    <gco:CharacterString>Chi cục trưởng phụ trách</gco:CharacterString>
                 </gmd:positionName>
                 <gmd:contactInfo>
                     <gmd:CI_Contact>
                         <gmd:phone>
                             <gmd:CI_Telephone>
                             <gmd:voice>
-                                <gco:CharacterString>0257.3827357</gco:CharacterString>
+                                <gco:CharacterString>0257.3823820</gco:CharacterString>
                             </gmd:voice>
                             <gmd:facsimile>
-                                <gco:CharacterString>0257.3836238</gco:CharacterString>
+                                <gco:CharacterString>0257.3827573</gco:CharacterString>
                             </gmd:facsimile>
                             </gmd:CI_Telephone>
                         </gmd:phone>
                         <gmd:address>
                             <gmd:CI_Address>
                             <gmd:deliveryPoint>
-                                <gco:CharacterString>số 48A, Nguyễn Tất Thành, phường 2</gco:CharacterString>
+                                <gco:CharacterString>số 48, Nguyễn Tất Thành, phường 2</gco:CharacterString>
                             </gmd:deliveryPoint>
                             <gmd:city>
                                 <gco:CharacterString>Phú Yên</gco:CharacterString>
@@ -283,7 +283,7 @@
                                         codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode"/>
             </gmd:characterSet>
             <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>Bản đồ chuyên đề trồng trọt</gmd:MD_TopicCategoryCode>
+                <gmd:MD_TopicCategoryCode>Bản đồ chuyên đề lâm nghiệp</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>

@@ -22,17 +22,17 @@ function writexml($fname,$xml){
 
 // ----------------------------------------------
 
-$nhomdulieu='Nhóm ngành trồng trọt';
-$loaibando='Bản đồ chuyên đề trồng trọt';
-$tilearr=['Danh mục các nhóm cây trồng','Tình hình dịch bệnh trên cây trồng'];
+$nhomdulieu='Nhóm ngành phát triển nông thôn';
+$loaibando='Bản đồ chuyên đề phát triển nông thôn';
+$tilearr=['Hợp tác xã nông nghiệp','Làng nghề'];
 
-$tennguoi_daidien_src='Nguyễn Trọng Tùng';
-$tochuc_src='SỞ Nông nghiệp và Phát triển Nông thôn tỉnh Phú Yên';
-$chucdanh_src='Giám đốc';
+$tochuc_src='Chi cục Phát triển nông thôn tỉnh Phú Yên';
+$diachi_src='Số 76, Lê Duẩn, phường 7';
+$dt_src='0257.3843542';
+$fax_src='0257.3841367';
+$tennguoi_daidien_src='Trần Hưng Lợi';
+$chucdanh_src='Chi cục trưởng';
 $vaitro_src='Đơn vị cung cấp dữ liệu';
-$dt_src='0257.3841664';
-$fax_src='0257.3842456';
-$diachi_src='Số 64, Lê Duẩn, phường 7';
 $tinhthanh_src='Phú Yên';
 $quanhuyen_src='TP Tuy Hòa';
 
