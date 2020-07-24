@@ -40,7 +40,7 @@ $nguon_dulieu=[$tennguoi_daidien_src,$tochuc_src,$chucdanh_src,$vaitro_src,$dt_s
 
 for($i=0;$i<count($tilearr);$i++){
    // echo $tilearr[$i];
-   $fname=$tilearr[$i].'.xml';
+   $fname='xml_out/'.$tilearr[$i].'.xml';
    $xmlstr=prepare_metadata($nhomdulieu,$loaibando,$tilearr[$i],$nguon_dulieu);
    writexml($fname,$xmlstr);
    echo ($i+1).'/ Đã ghi file <b>'.$tilearr[$i].'</b><br>';

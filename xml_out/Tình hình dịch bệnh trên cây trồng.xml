@@ -8,7 +8,7 @@
                     xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
     <gmd:fileIdentifier xmlns:gmx="http://www.isotc211.org/2005/gmx"
                         xmlns:srv="http://www.isotc211.org/2005/srv">
-        <gco:CharacterString>d199f33a0efe4fd06360195079d14515</gco:CharacterString>
+        <gco:CharacterString>4f67db4149b393f1bddbb231e1247676</gco:CharacterString>
     </gmd:fileIdentifier>
     <gmd:language>
         <gco:CharacterString>English</gco:CharacterString>
@@ -17,7 +17,7 @@
         <gmd:MD_CharacterSetCode codeListValue="UTF8" codeList="./resources/codeList.xml#MD_CharacterSetCode"/>
     </gmd:characterSet>
     <gmd:parentIdentifier>
-        <gco:CharacterString>Cơ sở dữ liệu của lớp "Danh mục các nhóm cây trồng" - nhóm lớp "Nhóm ngành trồng trọt" thuộc tỉnh Phú Yên</gco:CharacterString>
+        <gco:CharacterString>Cơ sở dữ liệu của lớp "Tình hình dịch bệnh trên cây trồng" - nhóm lớp "Nhóm ngành trồng trọt" thuộc tỉnh Phú Yên</gco:CharacterString>
     </gmd:parentIdentifier>
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
@@ -98,7 +98,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                 <gmd:title>
-                    <gco:CharacterString>Danh mục các nhóm cây trồng</gco:CharacterString>
+                    <gco:CharacterString>Tình hình dịch bệnh trên cây trồng</gco:CharacterString>
                 </gmd:title>
                 <gmd:date>
                     <gmd:CI_Date>
@@ -121,7 +121,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Siêu dữ liệu (Metadata) của lớp "Danh mục các nhóm cây trồng" - nhóm lớp "Nhóm ngành trồng trọt" thuộc tỉnh Phú Yên</gco:CharacterString>
+                <gco:CharacterString>Siêu dữ liệu (Metadata) của lớp "Tình hình dịch bệnh trên cây trồng" - nhóm lớp "Nhóm ngành trồng trọt" thuộc tỉnh Phú Yên</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose>
                 <gco:CharacterString>Cập nhật cơ sở dữ liệu cho hệ thống thông tin Nông nghiệp tỉnh Phú Yên</gco:CharacterString>
