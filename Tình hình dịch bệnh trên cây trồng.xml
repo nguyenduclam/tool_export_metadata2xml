@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xmlns:gml="http://www.opengis.net/gml"
+                    xmlns:gts="http://www.isotc211.org/2005/gts"
+                    xmlns:gco="http://www.isotc211.org/2005/gco"
+                    xmlns:geonet="http://www.fao.org/geonetwork"
+                    xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+    <gmd:fileIdentifier xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                        xmlns:srv="http://www.isotc211.org/2005/srv">
+        <gco:CharacterString>b8961a341ee0a7ad5bea79ef57f1585c</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+        <gco:CharacterString>English</gco:CharacterString>
+    </gmd:language>
+    <gmd:characterSet>
+        <gmd:MD_CharacterSetCode codeListValue="UTF8" codeList="./resources/codeList.xml#MD_CharacterSetCode"/>
+    </gmd:characterSet>
+    <gmd:parentIdentifier>
+        <gco:CharacterString>Cơ sở dữ liệu của lớp "Tình hình dịch bệnh trên cây trồng" - nhóm lớp "Nhóm ngành trồng trọt" thuộc tỉnh Phú Yên</gco:CharacterString>
+    </gmd:parentIdentifier>
+    <gmd:contact>
+        <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+                <gco:CharacterString>Trần Thái Bình</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+                <gco:CharacterString>Trung tâm Ứng dụng công nghệ Vũ trụ thành phố Hồ Chí Minh</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:positionName>
+                <gco:CharacterString>Phó giám đốc</gco:CharacterString>
+            </gmd:positionName>
+            <gmd:contactInfo>
+                <gmd:CI_Contact>
+                <gmd:phone>
+                    <gmd:CI_Telephone>
+                        <gmd:voice>
+                            <gco:CharacterString>028.39320220</gco:CharacterString>
+                        </gmd:voice>
+                        <gmd:facsimile>
+                            <gco:CharacterString>028.39320220</gco:CharacterString>
+                        </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                    <gmd:CI_Address>
+                        <gmd:deliveryPoint>
+                            <gco:CharacterString>Số 1, Mạc Đĩnh Chi, phường Bến Nghé</gco:CharacterString>
+                        </gmd:deliveryPoint>
+                        <gmd:city>
+                            <gco:CharacterString>Hồ Chí Minh</gco:CharacterString>
+                        </gmd:city>
+                        <gmd:administrativeArea>
+                            <gco:CharacterString>Quận 1</gco:CharacterString>
+                        </gmd:administrativeArea>
+                        <gmd:postalCode>
+                            <gco:CharacterString>08</gco:CharacterString>
+                        </gmd:postalCode>
+                        <gmd:country>
+                            <gco:CharacterString>Việt Nam</gco:CharacterString>
+                        </gmd:country>
+                        <gmd:electronicMailAddress gco:nilReason="missing">
+                            <gco:CharacterString/>
+                        </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                </gmd:address>
+                </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+                <gmd:CI_RoleCode codeListValue="originator"
+                                codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode"/>
+            </gmd:role>
+        </gmd:CI_ResponsibleParty>
+    </gmd:contact>
+    <gmd:dateStamp>
+        <gco:DateTime xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                        xmlns:srv="http://www.isotc211.org/2005/srv">2020-07-24</gco:DateTime>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+        <gco:CharacterString>ISO 19115:2003/19139</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+        <gco:CharacterString>1.0</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:referenceSystemInfo>
+        <gmd:MD_ReferenceSystem>
+            <gmd:referenceSystemIdentifier>
+                <gmd:RS_Identifier>
+                <gmd:code>
+                    <gco:CharacterString>VN-2000</gco:CharacterString>
+                </gmd:code>
+                </gmd:RS_Identifier>
+            </gmd:referenceSystemIdentifier>
+        </gmd:MD_ReferenceSystem>
+    </gmd:referenceSystemInfo>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                <gmd:title>
+                    <gco:CharacterString>Tình hình dịch bệnh trên cây trồng</gco:CharacterString>
+                </gmd:title>
+                <gmd:date>
+                    <gmd:CI_Date>
+                        <gmd:date>
+                            <gco:DateTime>2020-07-24</gco:DateTime>
+                        </gmd:date>
+                        <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeListValue="revision"
+                                                codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode"/>
+                        </gmd:dateType>
+                    </gmd:CI_Date>
+                </gmd:date>
+                <gmd:edition>
+                    <gco:CharacterString>1.0</gco:CharacterString>
+                </gmd:edition>
+                <gmd:presentationForm>
+                    <gmd:CI_PresentationFormCode codeListValue="mapDigital"
+                                                codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_PresentationFormCode"/>
+                </gmd:presentationForm>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:abstract>
+                <gco:CharacterString>Siêu dữ liệu (Metadata) của lớp "Tình hình dịch bệnh trên cây trồng" - nhóm lớp "Nhóm ngành trồng trọt" thuộc tỉnh Phú Yên</gco:CharacterString>
+            </gmd:abstract>
+            <gmd:purpose>
+                <gco:CharacterString>Cập nhật cơ sở dữ liệu cho hệ thống thông tin Nông nghiệp tỉnh Phú Yên</gco:CharacterString>
+            </gmd:purpose>
+            <gmd:status>
+                <gmd:MD_ProgressCode codeListValue="completed"
+                                    codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ProgressCode"/>
+            </gmd:status>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                <gmd:individualName>
+                    <gco:CharacterString>Nguyễn Trọng Tùng</gco:CharacterString>
+                </gmd:individualName>
+                <gmd:organisationName>
+                    <gco:CharacterString>SỞ Nông nghiệp và Phát triển Nông thôn tỉnh Phú Yên</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:positionName>
+                    <gco:CharacterString>Giám đốc</gco:CharacterString>
+                </gmd:positionName>
+                <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                        <gmd:phone>
+                            <gmd:CI_Telephone>
+                            <gmd:voice>
+                                <gco:CharacterString>0257.3841664</gco:CharacterString>
+                            </gmd:voice>
+                            <gmd:facsimile>
+                                <gco:CharacterString>0257.3842456</gco:CharacterString>
+                            </gmd:facsimile>
+                            </gmd:CI_Telephone>
+                        </gmd:phone>
+                        <gmd:address>
+                            <gmd:CI_Address>
+                            <gmd:deliveryPoint>
+                                <gco:CharacterString>Số 64, Lê Duẩn, phường 7</gco:CharacterString>
+                            </gmd:deliveryPoint>
+                            <gmd:city>
+                                <gco:CharacterString>Phú Yên</gco:CharacterString>
+                            </gmd:city>
+                            <gmd:administrativeArea>
+                                <gco:CharacterString>TP Tuy Hòa</gco:CharacterString>
+                            </gmd:administrativeArea>
+                            <gmd:postalCode>
+                                <gco:CharacterString>08</gco:CharacterString>
+                            </gmd:postalCode>
+                            <gmd:country>
+                                <gco:CharacterString>Việt Nam</gco:CharacterString>
+                            </gmd:country>
+                            <gmd:electronicMailAddress gco:nilReason="missing">
+                                <gco:CharacterString/>
+                            </gmd:electronicMailAddress>
+                            </gmd:CI_Address>
+                        </gmd:address>
+                    </gmd:CI_Contact>
+                </gmd:contactInfo>
+                <gmd:role>
+                    <gmd:CI_RoleCode codeListValue="owner"
+                                    codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode"/>
+                </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:resourceMaintenance>
+                <gmd:MD_MaintenanceInformation>
+                <gmd:maintenanceAndUpdateFrequency>
+                    <gmd:MD_MaintenanceFrequencyCode codeListValue="asNeeded"
+                                                    codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_MaintenanceFrequencyCode"/>
+                </gmd:maintenanceAndUpdateFrequency>
+                </gmd:MD_MaintenanceInformation>
+            </gmd:resourceMaintenance>
+            <gmd:graphicOverview>
+                <gmd:MD_BrowseGraphic>
+                <gmd:fileName gco:nilReason="missing">
+                    <gco:CharacterString/>
+                </gmd:fileName>
+                <gmd:fileDescription>
+                    <gco:CharacterString>thumbnail</gco:CharacterString>
+                </gmd:fileDescription>
+                </gmd:MD_BrowseGraphic>
+            </gmd:graphicOverview>
+            <gmd:graphicOverview>
+                <gmd:MD_BrowseGraphic>
+                <gmd:fileName gco:nilReason="missing">
+                    <gco:CharacterString/>
+                </gmd:fileName>
+                <gmd:fileDescription>
+                    <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                </gmd:fileDescription>
+                </gmd:MD_BrowseGraphic>
+            </gmd:graphicOverview>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                <gmd:keyword>
+                    <gco:CharacterString>gis</gco:CharacterString>
+                </gmd:keyword><gmd:keyword>
+                    <gco:CharacterString> nông nghiệp</gco:CharacterString>
+                </gmd:keyword><gmd:keyword>
+                    <gco:CharacterString> thông tin</gco:CharacterString>
+                </gmd:keyword><gmd:keyword>
+                    <gco:CharacterString> trồng trọt</gco:CharacterString>
+                </gmd:keyword><gmd:keyword>
+                    <gco:CharacterString> chăn nuôi</gco:CharacterString>
+                </gmd:keyword><gmd:keyword>
+                    <gco:CharacterString> thủy sản</gco:CharacterString>
+                </gmd:keyword><gmd:keyword>
+                    <gco:CharacterString> lâm nghiệp</gco:CharacterString>
+                </gmd:keyword>
+                <gmd:type>
+                    <gmd:MD_KeywordTypeCode codeListValue="theme"
+                                            codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode"/>
+                </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                <gmd:keyword>
+                    <gco:CharacterString>Phú Yên</gco:CharacterString>
+                </gmd:keyword>
+                <gmd:type>
+                    <gmd:MD_KeywordTypeCode codeListValue="place"
+                                            codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode"/>
+                </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                <gmd:accessConstraints>
+                    <gmd:MD_RestrictionCode codeListValue="Bản quyền"
+                                            codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
+                </gmd:accessConstraints>
+                <gmd:useConstraints>
+                    <gmd:MD_RestrictionCode codeListValue="Giấy phép"
+                                            codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
+                </gmd:useConstraints>
+                <gmd:otherConstraints>
+                    <gco:CharacterString>Không được chuyên giao cho bên sử dụng thứ 3</gco:CharacterString>
+                </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:spatialRepresentationType>
+                <gmd:MD_SpatialRepresentationTypeCode codeListValue="Véc-tơ"
+                                                    codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_SpatialRepresentationTypeCode"/>
+            </gmd:spatialRepresentationType>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                <gmd:equivalentScale>
+                    <gmd:MD_RepresentativeFraction>
+                        <gmd:denominator>
+                            <gco:Integer>10000</gco:Integer>
+                        </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                </gmd:equivalentScale>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:language>
+                <gco:CharacterString>Vietnamese</gco:CharacterString>
+            </gmd:language>
+            <gmd:characterSet>
+                <gmd:MD_CharacterSetCode codeListValue="UTF8"
+                                        codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode"/>
+            </gmd:characterSet>
+            <gmd:topicCategory>
+                <gmd:MD_TopicCategoryCode>Bản đồ chuyên đề trồng trọt</gmd:MD_TopicCategoryCode>
+            </gmd:topicCategory>
+            <gmd:extent>
+                <gmd:EX_Extent>
+                <gmd:temporalElement>
+                    <gmd:EX_TemporalExtent>
+                        <gmd:extent>
+                            <gml:TimePeriod gml:id="d56270e435a1052958">
+                            <gml:beginPosition/>
+                            <gml:endPosition/>
+                            </gml:TimePeriod>
+                        </gmd:extent>
+                    </gmd:EX_TemporalExtent>
+                </gmd:temporalElement>
+                </gmd:EX_Extent>
+            </gmd:extent>
+            <gmd:extent>
+                <gmd:EX_Extent>
+                <gmd:geographicElement>
+                    <gmd:EX_GeographicBoundingBox>
+                        <gmd:westBoundLongitude>
+                            <gco:Decimal>108.67263031</gco:Decimal>
+                        </gmd:westBoundLongitude>
+                        <gmd:eastBoundLongitude>
+                            <gco:Decimal>109.45884705</gco:Decimal>
+                        </gmd:eastBoundLongitude>
+                        <gmd:southBoundLatitude>
+                            <gco:Decimal>12.70495415</gco:Decimal>
+                        </gmd:southBoundLatitude>
+                        <gmd:northBoundLatitude>
+                            <gco:Decimal>13.69505596</gco:Decimal>
+                        </gmd:northBoundLatitude>
+                    </gmd:EX_GeographicBoundingBox>
+                </gmd:geographicElement>
+                </gmd:EX_Extent>
+            </gmd:extent>
+            <gmd:supplementalInformation gco:nilReason="missing">
+                <gco:CharacterString/>
+            </gmd:supplementalInformation>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:transferOptions>
+                <gmd:MD_DigitalTransferOptions>
+                <gmd:onLine>
+                    <gmd:CI_OnlineResource>
+                        <gmd:linkage gco:nilReason="missing">
+                            <gmd:URL/>
+                        </gmd:linkage>
+                        <gmd:protocol>
+                            <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+                        </gmd:protocol>
+                        <gmd:name>
+                            <gco:CharacterString>Trung tâm Ứng dụng công nghệ Vũ trụ thành phố Hồ Chí Minh</gco:CharacterString>
+                        </gmd:name>
+                        <gmd:description gco:nilReason="missing">
+                            <gco:CharacterString/>
+                        </gmd:description>
+                    </gmd:CI_OnlineResource>
+                </gmd:onLine>
+                <gmd:onLine>
+                    <gmd:CI_OnlineResource>
+                        <gmd:linkage gco:nilReason="missing">
+                            <gmd:URL/>
+                        </gmd:linkage>
+                        <gmd:protocol>
+                            <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                        </gmd:protocol>
+                        <gmd:name xmlns:gmx="http://www.isotc211.org/2005/gmx"
+                                xmlns:srv="http://www.isotc211.org/2005/srv">
+                            <gmx:MimeFileType type=""/>
+                        </gmd:name>
+                        <gmd:description>
+                            <gco:CharacterString/>
+                        </gmd:description>
+                    </gmd:CI_OnlineResource>
+                </gmd:onLine>
+                <gmd:onLine>
+                    <gmd:CI_OnlineResource>
+                        <gmd:linkage>
+                            <gmd:URL/>
+                        </gmd:linkage>
+                        <gmd:protocol>
+                            <gco:CharacterString>OGC:WMS-1.1.1-http-get-map</gco:CharacterString>
+                        </gmd:protocol>
+                        <gmd:name gco:nilReason="missing">
+                            <gco:CharacterString/>
+                        </gmd:name>
+                        <gmd:description gco:nilReason="missing">
+                            <gco:CharacterString/>
+                        </gmd:description>
+                    </gmd:CI_OnlineResource>
+                </gmd:onLine>
+                </gmd:MD_DigitalTransferOptions>
+            </gmd:transferOptions>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+    <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+            <gmd:scope>
+                <gmd:DQ_Scope>
+                <gmd:level>
+                    <gmd:MD_ScopeCode codeListValue="Tập dữ liệu địa lý (Dataset)"
+                                        codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ScopeCode"/>
+                </gmd:level>
+                </gmd:DQ_Scope>
+            </gmd:scope>
+            <gmd:lineage>
+                <gmd:LI_Lineage>
+                <gmd:statement>
+                    <gco:CharacterString>Đầy đủ thông tin;  Chất lượng dữ liệu đúng theo sai  số quy định</gco:CharacterString>
+                </gmd:statement>
+                <gmd:processStep>
+                    <gmd:LI_ProcessStep>
+                        <gmd:description>
+                            <gco:CharacterString>Thu thập dữ liệu
+    Chỉnh sửa thiết kế mô hình dữ liệu
+    Chuẩn hóa và chuyển đổi dữ liệu
+    Kiểm tra sản phẩm</gco:CharacterString>
+                        </gmd:description>
+                    </gmd:LI_ProcessStep>
+                </gmd:processStep>
+                <gmd:source>
+                    <gmd:LI_Source>
+                        <gmd:description>
+                            <gco:CharacterString>CSDL nền địa lý tỷ lệ 1:10.000 - nhóm lớp Dân cư cơ  sở hạ tầng</gco:CharacterString>
+                        </gmd:description>
+                        <gmd:scaleDenominator>
+                            <gmd:MD_RepresentativeFraction>
+                            <gmd:denominator>
+                                <gco:Integer>10000</gco:Integer>
+                            </gmd:denominator>
+                            </gmd:MD_RepresentativeFraction>
+                        </gmd:scaleDenominator>
+                        <gmd:sourceReferenceSystem>
+                            <gmd:MD_ReferenceSystem>
+                            <gmd:referenceSystemIdentifier>
+                                <gmd:RS_Identifier>
+                                    <gmd:code>
+                                        <gco:CharacterString>VN-2000</gco:CharacterString>
+                                    </gmd:code>
+                                </gmd:RS_Identifier>
+                            </gmd:referenceSystemIdentifier>
+                            </gmd:MD_ReferenceSystem>
+                        </gmd:sourceReferenceSystem>
+                    </gmd:LI_Source>
+                </gmd:source>
+                </gmd:LI_Lineage>
+            </gmd:lineage>
+        </gmd:DQ_DataQuality>
+    </gmd:dataQualityInfo>
+    </gmd:MD_Metadata>
